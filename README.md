@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just a hello-world repository
+just a hello-world.
+
+i like github
